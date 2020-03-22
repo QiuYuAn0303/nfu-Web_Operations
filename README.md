@@ -13,3 +13,21 @@
 ![提供清楚的指示](https://github.com/QiuYuAn0303/nfu-Web_Operations/blob/master/image/04.png)
 ## 提供清楚的指示
 * 确保指引信息，引导信息和错误信息清晰且易于理解，还要避免不必要的技术语言。描述要输入内容的要求，例如日期格式。
+
+---
+![首页](https://github.com/QiuYuAn0303/nfu-Web_Operations/blob/master/image/home.png)
+* 首页的页面标题是简单的[pixiv]
+
+![作品](https://github.com/QiuYuAn0303/nfu-Web_Operations/blob/master/image/work.png)
+* 点进一个页面，页面标题首先是tag，然后是作品名和作者名，最后才是网站的名字。
+
+![登录](https://github.com/QiuYuAn0303/nfu-Web_Operations/blob/master/image/login.png)
+* 登录也在页面的标题中清楚的标示了出来
+
+![链接](https://github.com/QiuYuAn0303/nfu-Web_Operations/blob/master/image/link.png)
+![链接](https://github.com/QiuYuAn0303/nfu-Web_Operations/blob/master/image/link02.png)
+* 页面中的链接也标示出了链接目的地的内容。
+
+![链接](https://github.com/QiuYuAn0303/nfu-Web_Operations/blob/master/image/instructions.png)
+* 登录界面有明确的指引信息。
+
